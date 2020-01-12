@@ -1,6 +1,6 @@
 # Information-Theoretic XAI
 
-This repository compiles publications on information-theoretic methods which **could be** used for Explainable Artificial Intelligence (XAI).
+This repository contains links to publications on information-theoretic methods which **could be** used for Explainable Artificial Intelligence (XAI).
 
 ## Variational Information Bottleneck
 1. Kolchinsky, Artemy, Brendan D. Tracey, and Steven Van Kuyk. "*Caveats for information bottleneck in deterministic scenarios*." (**ICLR 2019**) [[PDF]](https://openreview.net/pdf?id=rke4HiAcY7)
